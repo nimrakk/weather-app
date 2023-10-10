@@ -1,9 +1,9 @@
 Weathercast Using Python and Django 
-## Requirements
+# Requirements
 1.  Python 3+
 2.  Django 3+
 
-## Setup, Installation and Run
+# Setup, Installation and Run
 
 To run the app on your local machine, you need Python 3+, installed on your computer. Follow all the steps to run this project.
    
@@ -35,12 +35,12 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 # Tools
-## Front-end Part
+ Front-end Part
 * HTML
 * CSS
 * Bootstrap
 * JavaScript
-## Back-end
+ Back-end
 * Django
 * SQLite 3
 
