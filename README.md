@@ -1,9 +1,4 @@
 Weathercast Using Python and Django 
-*Weather Bug is the application of science and technology to predict the conditions of the atmosphere for a given location and time. You can get the realtime Weather forecasting by using this web application*
-
-
--->
-
 ## Requirements
 1.  Python 3+
 2.  Django 3+
@@ -39,7 +34,6 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
-
 # Tools
 ## Front-end Part
 * HTML
@@ -50,10 +44,6 @@ python manage.py runserver
 * Django
 * SQLite 3
 
-# Screenshots of the Project
-<p align="center">
-  <img width="660" height="300" src="static/ss/a.png">
-  <img width="660" height="300" src="static/ss/b.png">
-</p>
+
 
 
